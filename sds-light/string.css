@@ -1,0 +1,28 @@
+/**
+ * This file was generated automatically by Supernova.io and should not be changed manually.
+ * To modify the format or content of this file, please contact your design system team. 
+ */
+
+.theme-sds-light {
+  --string-typography-primitives-family-sans: "Inter";
+  --string-typography-primitives-family-serif: "Noto Serif";
+  --string-typography-primitives-family-mono: "Roboto Mono";
+  --string-typography-primitives-weight-thin-italic: "Thin Italic";
+  --string-typography-primitives-weight-extralight-italic: "Extra Light Italic";
+  --string-typography-primitives-weight-light-italic: "Light Italic";
+  --string-typography-primitives-weight-regular-italic: "Italic";
+  --string-typography-primitives-weight-medium-italic: "Medium Italic";
+  --string-typography-primitives-weight-semibold-italic: "Semi Bold Italic";
+  --string-typography-primitives-weight-bold-italic: "Bold Italic";
+  --string-typography-primitives-weight-extra-bold-italic: "Extra Bold Italic";
+  --string-typography-primitives-weight-black-italic: "Black Italic";
+  --string-responsive-device: "desktop";
+  --string-typography-title-hero-font-family: var(--string-typography-primitives-family-sans);
+  --string-typography-title-page-font-family: var(--string-typography-primitives-family-sans);
+  --string-typography-subtitle-font-family: var(--string-typography-primitives-family-sans);
+  --string-typography-heading-font-family: var(--string-typography-primitives-family-sans);
+  --string-typography-subheading-font-family: var(--string-typography-primitives-family-sans);
+  --string-typography-body-font-family: var(--string-typography-primitives-family-sans);
+  --string-typography-body-font-style-italic: var(--string-typography-primitives-weight-regular-italic);
+  --string-typography-code-font-family: var(--string-typography-primitives-family-mono);
+}
