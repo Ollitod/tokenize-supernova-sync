@@ -118,7 +118,7 @@
   /* Bg/Neutral/Hover */
   --color-background-neutral-hover: var(--color-primitives-yellow-500);
   /* Bg/Neutral/Secondary */
-  --color-background-neutral-secondary: var(--color-primitives-slate-300);
+  --color-background-neutral-secondary: var(--color-primitives-blue-600);
   /* Bg/Neutral/Secondary Hover */
   --color-background-neutral-secondary-hover: var(--color-primitives-slate-400);
   /* Bg/Neutral/Tertiary */
