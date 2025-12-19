@@ -112,7 +112,7 @@
   --color-background-utilities-overlay: #00000080;
   --color-border-utilities-swatch: #0000003d;
   /* Bg/Default/Default */
-  --color-background-default: var(--color-primitives-white-1000);
+  --color-background-default: var(--color-primitives-green-500);
   /* Bg/Neutral/Default */
   --color-background-neutral-default: var(--color-primitives-slate-700);
   /* Bg/Neutral/Hover */
